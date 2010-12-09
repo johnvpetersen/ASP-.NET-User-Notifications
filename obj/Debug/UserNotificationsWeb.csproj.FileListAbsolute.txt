@@ -1,0 +1,10 @@
+C:\Users\John Petersen\Projects\UserNotifications\UserNotifications2\bin\UserNotifications.dll
+C:\Users\John Petersen\Projects\UserNotifications\UserNotifications2\bin\UserNotifications.pdb
+C:\Users\John Petersen\Projects\UserNotifications\UserNotifications2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John Petersen\Projects\UserNotifications\UserNotifications2\obj\Debug\UserNotifications.dll
+C:\Users\John Petersen\Projects\UserNotifications\UserNotifications2\obj\Debug\UserNotifications.pdb
+C:\Users\John Petersen\Projects\UserNotifications\bin\UserNotifications.dll
+C:\Users\John Petersen\Projects\UserNotifications\bin\UserNotifications.pdb
+C:\Users\John Petersen\Projects\UserNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John Petersen\Projects\UserNotifications\obj\Debug\UserNotifications.dll
+C:\Users\John Petersen\Projects\UserNotifications\obj\Debug\UserNotifications.pdb

@@ -1,0 +1,27 @@
+﻿.MsgOK{
+ color:#69A150;
+ font-size:2.2em;
+ font-family: 'helvetica', Georgia, arial, sans-serif;
+ font-weight:bold;
+}
+ 
+.MsgInfo{
+ color:#5C7CA0;
+ font-size:2.2em;
+ font-family: 'helvetica', Georgia, arial, sans-serif;
+ font-weight:bold;
+}
+ 
+.MsgWarn{
+ color:#BF9E1B;
+ font-size:2.2em;
+ font-family: 'helvetica', Georgia, arial, sans-serif;
+ font-weight:bold;
+}
+ 
+.MsgError{
+ color:#AD5E5C;
+ font-size:2.2em;
+ font-family: 'helvetica', Georgia, arial, sans-serif;
+ font-weight:bold;
+}

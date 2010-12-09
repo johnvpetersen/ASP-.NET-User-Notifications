@@ -1,0 +1,5 @@
+C:\Users\John Petersen\Projects\FlashNotifications\bin\FlashNotifications.dll
+C:\Users\John Petersen\Projects\FlashNotifications\bin\FlashNotifications.pdb
+C:\Users\John Petersen\Projects\FlashNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John Petersen\Projects\FlashNotifications\obj\Debug\FlashNotifications.dll
+C:\Users\John Petersen\Projects\FlashNotifications\obj\Debug\FlashNotifications.pdb
