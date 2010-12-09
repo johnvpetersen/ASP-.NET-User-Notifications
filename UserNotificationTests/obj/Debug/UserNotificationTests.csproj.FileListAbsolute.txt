@@ -1,9 +1,0 @@
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\UserNotificationTests.dll
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\UserNotificationTests.pdb
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\nunit.framework.dll
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\nunit.framework.xml
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\obj\Debug\UserNotificationTests.dll
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\obj\Debug\UserNotificationTests.pdb
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\UserNotifications.dll
-C:\Users\John Petersen\Projects\UserNotifications\UserNotificationTests\bin\Debug\UserNotifications.pdb
